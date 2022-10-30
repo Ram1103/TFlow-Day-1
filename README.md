@@ -7,7 +7,7 @@ data set (mnist) : http://yann.lecun.com/exdb/mnist/
 logistic regression : https://developers.google.com/machine-learning/glossary#logistic-regression
 load csv : https://www.tensorflow.org/tutorials/load_data/csv
 Load and preprocess images : https://www.tensorflow.org/tutorials/load_data/images
-The Sequential model : https://www.tensorflow.org/guide/keras/sequential_model
+The Sequential model : https://www.tensorflow.org/guide/keras/sequential_model , https://keras.io/guides/sequential_model/
 Basic classification: Classify images of clothing : https://www.tensorflow.org/tutorials/keras/classification
 test test : https://developers.google.com/machine-learning/glossary#test-set
 validation set : https://developers.google.com/machine-learning/glossary#validation-loss
